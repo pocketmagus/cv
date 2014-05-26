@@ -1,0 +1,4 @@
+error*
+.komodotools
+*.komodoproject
+*.log
